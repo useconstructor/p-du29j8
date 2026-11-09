@@ -45,6 +45,7 @@ next-env.d.ts
 *.jpg
 *.jpeg
 *.webp
+!/public/apple-icon.png
 .playwright-mcp/
 /tmp-tests/
 
@@ -54,3 +55,5 @@ AGENTS.md
 .claude/
 .agents/
 skills-lock.json
+.constructor-worker/
+.build-instructions.md

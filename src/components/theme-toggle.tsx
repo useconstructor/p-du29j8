@@ -3,13 +3,15 @@
 import { useTheme } from "next-themes"
 import { Switch } from "@/components/ui/switch"
 import { Moon, Sun } from "lucide-react"
-import { useEffect, useState } from "react"
+import { useSyncExternalStore } from "react"
+
+const subscribe = () => () => {}
+const clientSnapshot = () => true
+const serverSnapshot = () => false
 
 export function ThemeToggle() {
   const { theme, setTheme } = useTheme()
-  const [mounted, setMounted] = useState(false)
-
-  useEffect(() => setMounted(true), [])
+  const mounted = useSyncExternalStore(subscribe, clientSnapshot, serverSnapshot)
 
   if (!mounted) return null
 

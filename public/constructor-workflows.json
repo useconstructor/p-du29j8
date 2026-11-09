@@ -1,0 +1,1 @@
+{"version":1,"workflows":[{"id":"health","name":"Comprobar conexión","description":"Comprueba la conexión sin acceder a datos privados.","endpoint":"/api/health","method":"GET","input":{}}]}

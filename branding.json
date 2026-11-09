@@ -1,0 +1,918 @@
+{
+  "primaryColor": "#355CCC",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#EFF5FB",
+  "textColor": "#172D50",
+  "accentColor": "#355CCC",
+  "fontHeading": "Arial",
+  "fontBody": "Arial",
+  "borderRadius": "0.25rem",
+  "logoText": "Pulso",
+  "logoImageUrl": null,
+  "tone": "minimal",
+  "brandbook": {
+    "version": 1,
+    "origin": "proposed",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1,
+    "positioning": "App ficticia de Esteban para mantener hábitos personales con una correspondencia clara entre cada hábito, su fecha y una marca realmente guardada. Una herramienta de trabajo desde la primera pantalla, sin promesas ni contenido comercial.",
+    "voice": "Español directo, tranquilo y concreto. Usar Hoy, Semana, Añadir hábito, Guardando, Guardado y Reintentar. Explicar incertidumbres sin afirmar un resultado no confirmado. Mostrar discretamente «Demo ficticia de Esteban».",
+    "motif": "Siete pulsos equivalen a los siete días de lunes a domingo. La banda, las columnas y los indicadores comparten geometría y alineación; las fechas y estados son reales. Hoy se reconoce por contorno azul y un día completo por verde confirmado, siempre con alternativa textual.",
+    "sources": [],
+    "colors": [
+      {
+        "role": "background",
+        "name": "Open Sky",
+        "hex": "#EFF5FB"
+      },
+      {
+        "role": "surface",
+        "name": "Clear Space",
+        "hex": "#FFFFFF"
+      },
+      {
+        "role": "accent",
+        "name": "Steady Pulse",
+        "hex": "#355CCC"
+      },
+      {
+        "role": "text",
+        "name": "Deep Focus",
+        "hex": "#172D50"
+      },
+      {
+        "role": "muted",
+        "name": "Quiet Context",
+        "hex": "#52627A"
+      }
+    ],
+    "fontFaces": [],
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><rect x=\"24\" y=\"88\" width=\"10\" height=\"36\" rx=\"5\" fill=\"#355CCC\"/><rect x=\"41\" y=\"68\" width=\"10\" height=\"56\" rx=\"5\" fill=\"#355CCC\"/><rect x=\"58\" y=\"48\" width=\"10\" height=\"76\" rx=\"5\" fill=\"#355CCC\"/><rect x=\"75\" y=\"32\" width=\"10\" height=\"92\" rx=\"5\" fill=\"#355CCC\"/><rect x=\"92\" y=\"56\" width=\"10\" height=\"68\" rx=\"5\" fill=\"#355CCC\"/><rect x=\"109\" y=\"72\" width=\"10\" height=\"52\" rx=\"5\" fill=\"#355CCC\"/><rect x=\"126\" y=\"84\" width=\"10\" height=\"40\" rx=\"5\" fill=\"#355CCC\"/></svg>",
+    "pages": [
+      {
+        "title": "Brand guidelines",
+        "summary": "App ficticia de Esteban para mantener hábitos personales con una correspondencia clara entre cada hábito, su fecha y una marca realmente guardada.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Brand guidelines"
+          },
+          {
+            "title": "Demo ficticia de Esteban",
+            "text": "A seven-day rhythm for a personal habit demo."
+          }
+        ],
+        "id": "brand-page-1",
+        "layout": "cover"
+      },
+      {
+        "title": "The brand",
+        "summary": "Use this divider to introduce a working tool, not a promotional landing page. Lead with Pulso and one short line; retain generous empty space.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Tus hábitos, día a día."
+          },
+          {
+            "title": "Divider composition",
+            "text": "Use a blue field, white heading and a white support surface for the unchanged blue symbol."
+          }
+        ],
+        "id": "brand-page-2",
+        "layout": "divider"
+      },
+      {
+        "title": "Welcome",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Demo ficticia de Esteban",
+            "text": "Keep this attribution discreet, below the main working content rather than beside every action."
+          },
+          {
+            "title": "Project basis",
+            "text": "The supplied plan defines the name, palette, seven-day motif and two views. The symbol and compositions express that brief."
+          }
+        ],
+        "id": "brand-page-3",
+        "layout": "content"
+      },
+      {
+        "title": "Index",
+        "summary": "Organize the manual into identity, visual tools and application studies. Keep section labels left-aligned and page numbers in a consistent narrow column.",
+        "examples": [
+          {
+            "title": "Identity · 5–15",
+            "text": "Purpose, voice, logo construction and protection."
+          },
+          {
+            "title": "Visual tools · 16–29",
+            "text": "Typography, layouts, colors, icons and visual references."
+          },
+          {
+            "title": "Design studies · 30–49",
+            "text": "Interface compositions, project materials and recovery language."
+          }
+        ],
+        "id": "brand-page-4",
+        "layout": "content"
+      },
+      {
+        "title": "Defining Pulso",
+        "summary": "Make the seven-day board the defining composition. Align date band, habit rows and weekly columns so each confirmed mark has an unmistakable habit and date.",
+        "examples": [
+          {
+            "title": "Hoy",
+            "text": "Place Añadir hábito beside the view title, followed by the seven-day band and working rows."
+          },
+          {
+            "title": "Semana",
+            "text": "Place the same habits beneath aligned dates; summary and chart follow the board."
+          }
+        ],
+        "id": "brand-page-5",
+        "layout": "content"
+      },
+      {
+        "title": "Purpose & direction",
+        "summary": "Express the supplied project purpose without inventing a corporate mission. Describe creating habits, recording days and reviewing a week; avoid promises about personal transformation.",
+        "examples": [
+          {
+            "title": "Practical description",
+            "text": "Crea hábitos personales, marca cada día y revisa tu semana."
+          },
+          {
+            "title": "Avoid outcome promises",
+            "text": "Do not replace the practical description with claims such as “Cambia tu vida en siete días.”"
+          }
+        ],
+        "id": "brand-page-6",
+        "layout": "content"
+      },
+      {
+        "title": "Design values",
+        "summary": "Treat clarity, calm and honest state as project design criteria, not invented company values. Give every action a visible place and every uncertain result precise language.",
+        "examples": [
+          {
+            "title": "Clarity",
+            "text": "Keep “Leer”, “Aprendizaje” and its weekly goal together in one spacious habit row."
+          },
+          {
+            "title": "Honesty",
+            "text": "Use “No se pudo confirmar el resultado” when the outcome is uncertain, not “No se guardó”."
+          },
+          {
+            "title": "Calm",
+            "text": "Use “Guardado” without confetti, streak pressure or celebratory claims."
+          }
+        ],
+        "id": "brand-page-7",
+        "layout": "content"
+      },
+      {
+        "title": "Tone of voice",
+        "summary": "Write interface copy in direct, calm Spanish. Use sentence case, short verbs and specific next steps. Never turn errors into blame or frame missed days as failure.",
+        "examples": [
+          {
+            "title": "Actions",
+            "text": "Añadir hábito · Editar · Cancelar · Reintentar"
+          },
+          {
+            "title": "Recoverable error",
+            "text": "No se pudo cargar la semana. Reintentar."
+          },
+          {
+            "title": "Field guidance",
+            "text": "Escribe un nombre de 1 a 60 caracteres."
+          }
+        ],
+        "id": "brand-page-8",
+        "layout": "content"
+      },
+      {
+        "title": "Logo",
+        "summary": "Introduce the identity with one generous symbol-and-name composition. The seven blue segments are a fixed signature, not a live display of weekly results.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Place the blue symbol beside the ink-colored name on white."
+          },
+          {
+            "title": "Section divider",
+            "text": "Keep explanatory copy below the lockup, outside its clear space."
+          }
+        ],
+        "id": "brand-page-9",
+        "layout": "divider"
+      },
+      {
+        "title": "Logo overview",
+        "summary": "The mark has seven rounded vertical segments sharing one baseline. Its rising and falling rhythm suggests a week without representing measured activity.",
+        "examples": [
+          {
+            "title": "Canonical geometry",
+            "text": "Keep all seven segments, their varied heights and the shared baseline exactly as supplied in the SVG."
+          },
+          {
+            "title": "Name treatment",
+            "text": "Render “Pulso” separately in the interface family, weight 600, with natural letter spacing."
+          }
+        ],
+        "id": "brand-page-10",
+        "layout": "logo"
+      },
+      {
+        "title": "Primary logo",
+        "summary": "Use a horizontal symbol-and-name lockup for the application header. Start with a 32 px symbol box, a 12 px gap and a 24 px name; align their optical centers.",
+        "examples": [
+          {
+            "title": "Header lockup",
+            "text": "Pulso appears before Hoy and Semana; navigation is visually separate from the name."
+          },
+          {
+            "title": "Dark application",
+            "text": "Keep the blue mark on a white support surface and set the separate Pulso name in white."
+          }
+        ],
+        "id": "brand-page-11",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo safe zone",
+        "summary": "Reserve clear space equal to one eighth of the square symbol box around the complete lockup. Keep navigation, panel edges and status text outside that zone.",
+        "examples": [
+          {
+            "title": "32 px symbol",
+            "text": "Allow at least 4 px of exterior clear space; retain the separate 12 px symbol-to-name gap."
+          },
+          {
+            "title": "80 px symbol",
+            "text": "Allow at least 10 px around the lockup on a project cover or sign."
+          }
+        ],
+        "id": "brand-page-12",
+        "layout": "logo"
+      },
+      {
+        "title": "Color combinations",
+        "summary": "Use blue for the mark and ink for the name on white or pale blue. On blue or ink backgrounds, preserve the blue mark inside a white support surface.",
+        "examples": [
+          {
+            "title": "Light header",
+            "text": "Symbol #355CCC, Pulso #172D50, background #FFFFFF."
+          },
+          {
+            "title": "Ink cover",
+            "text": "Background #172D50, white name and title, blue symbol supported by white."
+          },
+          {
+            "title": "Reserved green",
+            "text": "Never recolor the logo #5A8E4C; that color belongs only to confirmed completion."
+          }
+        ],
+        "id": "brand-page-13",
+        "layout": "colors"
+      },
+      {
+        "title": "Brandmark",
+        "summary": "Use the original seven-pulse symbol alone only when Pulso is already identified nearby or in application metadata. Preserve the square canvas and fixed proportions.",
+        "examples": [
+          {
+            "title": "App icon",
+            "text": "Use the same seven-segment geometry as the header symbol, centered on a white canvas."
+          },
+          {
+            "title": "Not a progress meter",
+            "text": "Do not change segment heights, remove days or turn segments green as records change."
+          }
+        ],
+        "id": "brand-page-14",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo misuse",
+        "summary": "Do not stretch, rotate, outline or decorate the mark. Do not merge its segments into letters, add a container as part of the geometry or rebuild the name inside the SVG.",
+        "examples": [
+          {
+            "title": "Avoid distortion",
+            "text": "A wide header must not stretch the square mark to fill the available space."
+          },
+          {
+            "title": "Avoid false meaning",
+            "text": "Seven green segments would suggest confirmed completion; keep the signature blue."
+          },
+          {
+            "title": "Avoid decoration",
+            "text": "No glow, gradient, shadow trail or animated equalizer treatment behind Pulso."
+          }
+        ],
+        "id": "brand-page-15",
+        "layout": "logo"
+      },
+      {
+        "title": "Typography",
+        "summary": "Use one clear family throughout the interface. Keep titles, labels and instructions left-aligned; hierarchy comes from size, weight and spacing rather than multiple typefaces.",
+        "examples": [
+          {
+            "title": "Tu semana",
+            "text": "Revisa las marcas de cada hábito."
+          },
+          {
+            "title": "Section treatment",
+            "text": "Set a single large heading above a short supporting line, with no uppercase eyebrow label."
+          }
+        ],
+        "id": "brand-page-16",
+        "layout": "divider"
+      },
+      {
+        "title": "Typography overview",
+        "summary": "Arial is the specified fallback. Lexend may replace it throughout only when locally available; no Lexend files are supplied here. Do not present Arial as Lexend or mix families.",
+        "examples": [
+          {
+            "title": "Todavía no tienes hábitos",
+            "text": "Añade tu primer hábito para empezar."
+          },
+          {
+            "title": "Single-family rule",
+            "text": "Use the selected family for Pulso, navigation, fields, chart labels and status messages."
+          }
+        ],
+        "id": "brand-page-17",
+        "layout": "type"
+      },
+      {
+        "title": "Primary typeface",
+        "summary": "Set body copy and fields at 16 px in the selected family. Preserve accents, punctuation and accepted habit names exactly; allow long names to wrap rather than truncating them.",
+        "examples": [
+          {
+            "title": "Añadir hábito",
+            "text": "Nombre, categoría y meta semanal."
+          },
+          {
+            "title": "Long-name specimen",
+            "text": "Practicar respiración consciente antes de empezar el día"
+          }
+        ],
+        "id": "brand-page-18",
+        "layout": "type"
+      },
+      {
+        "title": "Typography styles",
+        "summary": "Use 600 for interface titles and the Pulso name, 400 for body text and 600 for key action labels. Avoid italics, all caps and extra-heavy UI headings.",
+        "examples": [
+          {
+            "title": "Semana",
+            "text": "Consulta las marcas confirmadas de lunes a domingo."
+          },
+          {
+            "title": "Weight pairing",
+            "text": "Set “Semana” at 32 px/600 and its supporting sentence at 16 px/400."
+          },
+          {
+            "title": "Status style",
+            "text": "Set “Guardando” and “Guardado” at 14 px/400; distinguish their meaning through wording, not weight alone."
+          }
+        ],
+        "id": "brand-page-19",
+        "layout": "type"
+      },
+      {
+        "title": "Supporting type",
+        "summary": "Use the same family at 12–14 px for categories, dates and secondary guidance. Keep important validation messages at 14–16 px and next to their fields.",
+        "examples": [
+          {
+            "title": "Meta semanal",
+            "text": "Elige un número entero de 1 a 7."
+          },
+          {
+            "title": "Secondary pairing",
+            "text": "Use Quiet Context for “Aprendizaje” beneath an ink-colored habit name."
+          },
+          {
+            "title": "Date labels",
+            "text": "Use “Lun” visually, with the full Spanish date available in the control’s accessible name."
+          }
+        ],
+        "id": "brand-page-20",
+        "layout": "type"
+      },
+      {
+        "title": "Hierarchy",
+        "summary": "Use titles at 28–36 px/600, body and fields at 16 px, navigation at 14–16 px and secondary text at 12–14 px. Let spacing separate levels before adding borders.",
+        "examples": [
+          {
+            "title": "Hoy",
+            "text": "Añadir hábito"
+          },
+          {
+            "title": "Working order",
+            "text": "Pulso and navigation → view title and action → seven-day band → habit rows → row-level feedback."
+          },
+          {
+            "title": "Semana extension",
+            "text": "Place the summary and chart after the rows, never above the main weekly controls."
+          }
+        ],
+        "id": "brand-page-21",
+        "layout": "type"
+      },
+      {
+        "title": "Layouts",
+        "summary": "Use an 8/16/24/32 px spacing scale and shared left edges. At 1440 px, center a maximum 1120 px workspace; on smaller screens, reflow rows rather than hiding controls.",
+        "examples": [
+          {
+            "title": "Cada hábito, en su fila",
+            "text": "Nombre, meta y marcas permanecen juntos."
+          },
+          {
+            "title": "Tablet · 768 px",
+            "text": "Reserve about 220 px for name and goal, followed by seven columns with 44 px controls. Expand editing across the row."
+          },
+          {
+            "title": "Mobile · 390 px",
+            "text": "Budget about 56/60/76 px for header, title/action and band. Place seven 44 px controls with 2 px gaps below each habit."
+          }
+        ],
+        "id": "brand-page-22",
+        "layout": "applications"
+      },
+      {
+        "title": "Colors",
+        "summary": "Keep pale blue and white dominant. Ink carries reading, blue carries action and focus, and green appears only after completion is confirmed.",
+        "examples": [
+          {
+            "title": "Workspace palette",
+            "text": "Open Sky #EFF5FB surrounds Clear Space #FFFFFF rows and the weekly band."
+          },
+          {
+            "title": "Meaning before decoration",
+            "text": "A blue outline identifies today. A green mark identifies a confirmed completed habit/date."
+          }
+        ],
+        "id": "brand-page-23",
+        "layout": "divider"
+      },
+      {
+        "title": "Colors overview",
+        "summary": "Preserve every supplied hex value. Quiet Context is the fifth semantic palette color; Confirmed Leaf is an additional completion token, not a replacement for muted text.",
+        "examples": [
+          {
+            "title": "Background and surface",
+            "text": "Open Sky #EFF5FB · Clear Space #FFFFFF."
+          },
+          {
+            "title": "Action and reading",
+            "text": "Steady Pulse #355CCC · Deep Focus #172D50 · Quiet Context #52627A."
+          },
+          {
+            "title": "Confirmed completion",
+            "text": "Confirmed Leaf #5A8E4C. Pair a green indicator with an ink label and a check; avoid small white text on green."
+          }
+        ],
+        "id": "brand-page-24",
+        "layout": "colors"
+      },
+      {
+        "title": "Using tints",
+        "summary": "Use the supplied pale background as the main tint treatment. Keep text and interactive boundaries at full strength; do not create pale success states or decorative gradients.",
+        "examples": [
+          {
+            "title": "Quiet separation",
+            "text": "Separate a white editor from the pale blue workspace with spacing and a restrained boundary."
+          },
+          {
+            "title": "Future date",
+            "text": "Use a neutral disabled treatment plus “Fecha futura”; do not rely on faded opacity alone."
+          },
+          {
+            "title": "Focus",
+            "text": "Use a visible #355CCC focus outline with separation from the control edge."
+          }
+        ],
+        "id": "brand-page-25",
+        "layout": "colors"
+      },
+      {
+        "title": "Graphic elements",
+        "summary": "Repeat the seven-part rhythm through date bands and aligned columns, not decorative card grids. Keep logo pulses fixed while data indicators reflect confirmed records.",
+        "examples": [
+          {
+            "title": "Weekly band",
+            "text": "Lun · Mar · Mié · Jue · Vie · Sáb · Dom"
+          },
+          {
+            "title": "Daily completion",
+            "text": "Color a day green only when all current habits have confirmed marks for that date. With no habits, no day is complete."
+          },
+          {
+            "title": "Signature motion",
+            "text": "After confirmation, scale the mark from 0.85 to 1 in 160 ms. Reduced motion applies the result immediately."
+          }
+        ],
+        "id": "brand-page-26",
+        "layout": "divider"
+      },
+      {
+        "title": "Icons",
+        "summary": "Use a consistent simple outline icon style within shadcn controls. Pair unfamiliar actions with text, keep touch targets at least 44 px and preserve visible keyboard focus.",
+        "examples": [
+          {
+            "title": "Añadir hábito",
+            "text": "Pair a plus icon with the full action label; the icon does not replace the label."
+          },
+          {
+            "title": "Completion control",
+            "text": "Combine a check shape, state wording and color. Accessible names identify the habit and full date."
+          },
+          {
+            "title": "Row actions",
+            "text": "Use explicit accessible labels such as “Editar Leer” and “Eliminar Leer”, rather than two unnamed icons."
+          }
+        ],
+        "id": "brand-page-27",
+        "layout": "content"
+      },
+      {
+        "title": "Photography",
+        "summary": "Do not use photography in Pulso. Let real interface structure, typography and the seven-pulse motif carry the identity; avoid lifestyle imagery and stock productivity scenes.",
+        "examples": [
+          {
+            "title": "Empty view",
+            "text": "Show “Todavía no tienes hábitos” with Añadir hábito and the date band, not an illustration or photograph."
+          },
+          {
+            "title": "Project presentation",
+            "text": "Use a privacy-safe interface composition instead of a desk, runner or meditation photo."
+          }
+        ],
+        "id": "brand-page-28",
+        "layout": "applications"
+      },
+      {
+        "title": "Moodboard",
+        "summary": "Build the reference board from typographic and geometric fragments: pale workspace, white band, ink labels, blue focus and one confirmed green state. Keep imagery out.",
+        "examples": [
+          {
+            "title": "Rhythm reference",
+            "text": "Seven equal date columns sit beside the seven rounded segments of the Pulso symbol."
+          },
+          {
+            "title": "Editorial reference",
+            "text": "Pair “Hoy” with a spacious row and a small “Guardado” label; show hierarchy without decorative statistics."
+          },
+          {
+            "title": "Exclude",
+            "text": "No restaurant layouts, note-editor canvases, radial week wheels or repeated promotional cards."
+          }
+        ],
+        "id": "brand-page-29",
+        "layout": "applications"
+      },
+      {
+        "title": "Applications",
+        "summary": "The following design studies apply Pulso to its two-view workspace and project materials. Keep each composition focused on one task; do not imply extra routes or commercial services.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban"
+          },
+          {
+            "title": "Study convention",
+            "text": "Label presentation sheets “Design study” outside the interface crop. Specimen habit names are not starter records."
+          }
+        ],
+        "id": "brand-page-30",
+        "layout": "divider"
+      },
+      {
+        "title": "Application icons",
+        "summary": "Design study: adapt the compact-avatar purpose to Pulso’s app identity, not social accounts. Center the unchanged symbol on white without badges, initials or status overlays.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban"
+          },
+          {
+            "title": "Compact identity",
+            "text": "Use the blue seven-pulse symbol alone for small app identification; keep the name in adjacent text when space allows."
+          }
+        ],
+        "id": "brand-page-31",
+        "layout": "logo"
+      },
+      {
+        "title": "Project identity panel",
+        "summary": "Design study: use a restrained identity panel on presentation material instead of a social profile. Keep it informational; add no avatar account, follow control or membership claim.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Una demo ficticia de Esteban para llevar hábitos personales."
+          },
+          {
+            "title": "Panel structure",
+            "text": "Place the lockup above one descriptive sentence. Do not add follower counts, badges or invented contact details."
+          }
+        ],
+        "id": "brand-page-32",
+        "layout": "applications"
+      },
+      {
+        "title": "Square interface studies",
+        "summary": "Design study: use square presentation tiles to explain one interface state, not to create an Instagram channel. Preserve a readable title, a seven-day band and one clear message.",
+        "examples": [
+          {
+            "title": "Todavía no tienes hábitos",
+            "text": "Añade tu primer hábito para empezar."
+          },
+          {
+            "title": "Composition",
+            "text": "Crop around the real workspace structure. Keep the empty state honest and omit sample metrics or promotional calls to follow."
+          }
+        ],
+        "id": "brand-page-33",
+        "layout": "applications"
+      },
+      {
+        "title": "Posters",
+        "summary": "Design study: a project poster uses an oversized Pulso name, a seven-column rhythm and one factual description. Avoid outcome promises, event details and invented access links.",
+        "examples": [
+          {
+            "title": "Una semana, siete días",
+            "text": "Pulso · Demo ficticia de Esteban para llevar hábitos personales."
+          },
+          {
+            "title": "Poster grid",
+            "text": "Align headline and description to the first column. Use blue pulses on white with generous space, not a full-page dashboard."
+          }
+        ],
+        "id": "brand-page-34",
+        "layout": "applications"
+      },
+      {
+        "title": "T-shirts and totes",
+        "summary": "Design study: treat garments and totes as project identity mockups, not merchandise. Use one blue symbol with a separately typeset name; avoid green and decorative slogans.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban"
+          },
+          {
+            "title": "Placement",
+            "text": "On a white tote, center a modest lockup with ample clear space. Keep the seven segments intact at print size."
+          }
+        ],
+        "id": "brand-page-35",
+        "layout": "applications"
+      },
+      {
+        "title": "Demo handout sleeve",
+        "summary": "Design study: replace takeaway packaging with a paper sleeve for project handouts. Use the seven-part motif as structure, without implying a shipped product or purchase.",
+        "examples": [
+          {
+            "title": "Conoce Pulso",
+            "text": "Hoy y Semana: dos vistas para llevar hábitos personales."
+          },
+          {
+            "title": "Sleeve composition",
+            "text": "Use a white front, ink copy and a blue symbol. Keep folds and openings outside the logo safe zone."
+          }
+        ],
+        "id": "brand-page-36",
+        "layout": "applications"
+      },
+      {
+        "title": "Direct-access entry",
+        "summary": "Design study: replace pickup wayfinding with safe access guidance inside either view. Explain that direct access may use a separate context; never imply that lost credentials transfer.",
+        "examples": [
+          {
+            "title": "Abrir directamente",
+            "text": "El acceso directo puede usar un contexto distinto al de esta ventana integrada."
+          },
+          {
+            "title": "No podemos acceder a tu contexto",
+            "text": "Reintenta en el contexto original. Un acceso distinto no recupera por sí solo tus hábitos."
+          }
+        ],
+        "id": "brand-page-37",
+        "layout": "applications"
+      },
+      {
+        "title": "Habit controls",
+        "summary": "Design study: use shadcn Dialog for creation, an inline row editor for changes and AlertDialog for deletion. Keep errors near fields and preserve the last confirmed mark while sending.",
+        "examples": [
+          {
+            "title": "Añadir hábito",
+            "text": "Nombre · Categoría · Meta semanal · Crear hábito"
+          },
+          {
+            "title": "Validation and save",
+            "text": "Accept names of 1–60 characters, one of three categories and integer goals of 1–7. Show Guardado only after confirmation."
+          },
+          {
+            "title": "¿Eliminar «Leer»?",
+            "text": "También se eliminarán sus registros. Cancelar · Eliminar hábito"
+          }
+        ],
+        "id": "brand-page-38",
+        "layout": "applications"
+      },
+      {
+        "title": "Save confirmation",
+        "summary": "Design study: replace a receipt with concise, local state feedback. Keep pending, confirmed and uncertain outcomes distinct; never let an older response erase a newer visible draft.",
+        "examples": [
+          {
+            "title": "Guardado",
+            "text": "Los cambios se han guardado."
+          },
+          {
+            "title": "Cambios sin guardar",
+            "text": "Revisa los campos indicados antes de guardar."
+          },
+          {
+            "title": "No se pudo confirmar el resultado",
+            "text": "Reintenta para recuperar el resultado de esta operación."
+          }
+        ],
+        "id": "brand-page-39",
+        "layout": "applications"
+      },
+      {
+        "title": "Weekly progress strip",
+        "summary": "Design study: replace rewards with factual progress toward each weekly goal. Use confirmed records only, distinguish goal progress from daily completion and add no points or streak prizes.",
+        "examples": [
+          {
+            "title": "Tu semana, hasta hoy",
+            "text": "El resumen muestra únicamente marcas confirmadas."
+          },
+          {
+            "title": "Progress presentation",
+            "text": "Place each habit’s confirmed weekly count beside its goal. In aggregate, cap each habit’s contribution at its own goal."
+          },
+          {
+            "title": "Sin hábitos todavía",
+            "text": "Añade un hábito desde Hoy. Do not display a percentage when there is no goal total."
+          }
+        ],
+        "id": "brand-page-40",
+        "layout": "applications"
+      },
+      {
+        "title": "Workspace sign",
+        "summary": "Design study: replace restaurant signage with a demo workspace identifier. Use the primary lockup and a brief descriptor, without inventing premises, opening hours or a public venue.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban"
+          },
+          {
+            "title": "Viewing distance",
+            "text": "Use a white panel with a blue symbol and ink name. Increase the complete lockup together; do not widen the mark."
+          }
+        ],
+        "id": "brand-page-41",
+        "layout": "applications"
+      },
+      {
+        "title": "Two-view application",
+        "summary": "Design study: keep exactly / for Hoy and /semana for Semana. Both use the same private persisted habits. Preserve the shared header; show summary and shadcn/chart only in Semana.",
+        "examples": [
+          {
+            "title": "Hoy",
+            "text": "Todavía no tienes hábitos. Añadir hábito."
+          },
+          {
+            "title": "Semana",
+            "text": "Todavía no hay marcas esta semana. Ve a Hoy para añadir un hábito."
+          },
+          {
+            "title": "Navigation and dates",
+            "text": "Use Hoy · Pulso and Semana · Pulso as page titles. Show Monday–Sunday dates from America/Bogota; future dates stay visible but disabled."
+          }
+        ],
+        "id": "brand-page-42",
+        "layout": "applications"
+      },
+      {
+        "title": "Favicon",
+        "summary": "Design study: use the canonical seven-segment SVG for favicon and app icon artwork. Preserve the 160 × 160 canvas, blue fills and white support where needed; add no wordmark.",
+        "examples": [
+          {
+            "title": "Hoy · Pulso",
+            "text": "Semana · Pulso"
+          },
+          {
+            "title": "Small-size treatment",
+            "text": "Derive raster sizes from the same geometry. Keep all seven segments; do not substitute a P or a template icon."
+          }
+        ],
+        "id": "brand-page-43",
+        "layout": "logo"
+      },
+      {
+        "title": "Stationery",
+        "summary": "Design study: project documents use a small top-left lockup, a clear title and a restrained footer. Carry the interface’s spacing and typography into print without a dashboard background.",
+        "examples": [
+          {
+            "title": "Pulso · Notas de diseño",
+            "text": "Tablero semanal, hábitos y estados de guardado."
+          },
+          {
+            "title": "Document system",
+            "text": "Use ink body copy on white, blue section rules and generous margins. Reserve green for a genuine confirmed-state specimen."
+          }
+        ],
+        "id": "brand-page-44",
+        "layout": "applications"
+      },
+      {
+        "title": "Project cards",
+        "summary": "Design study: replace business networking details with a compact project introduction. Preserve Esteban’s supplied attribution and omit invented surnames, titles, email addresses and URLs.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban · Aplicación de hábitos personales."
+          },
+          {
+            "title": "Front and reverse",
+            "text": "Front: symbol and name. Reverse: the short description, left-aligned. No fabricated contact block."
+          }
+        ],
+        "id": "brand-page-45",
+        "layout": "applications"
+      },
+      {
+        "title": "Habit prompt card",
+        "summary": "Design study: replace a gift card with a non-commercial paper prompt. It is a project artifact, not a redeemable item or an extra application feature.",
+        "examples": [
+          {
+            "title": "¿Qué hábito quieres añadir?",
+            "text": "Piensa en un nombre, una categoría y una meta de 1 a 7 días por semana."
+          },
+          {
+            "title": "Prompt layout",
+            "text": "Place the question above three open writing lines. Omit value amounts, redemption codes and purchase language."
+          }
+        ],
+        "id": "brand-page-46",
+        "layout": "applications"
+      },
+      {
+        "title": "Document seal",
+        "summary": "Design study: use the brandmark as a small identity sticker on project materials. It must not resemble certification, a privacy guarantee or a completion reward.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban"
+          },
+          {
+            "title": "Seal treatment",
+            "text": "Keep the blue symbol on white, with clear space around all seven segments. Do not add a green tick or an approval claim."
+          }
+        ],
+        "id": "brand-page-47",
+        "layout": "applications"
+      },
+      {
+        "title": "Recovery guidance",
+        "summary": "Design study: keep recovery beside the affected task within Hoy or Semana. Offer truthful retry and access choices; do not add a support chat, new owner or false working session.",
+        "examples": [
+          {
+            "title": "No podemos acceder a tus hábitos",
+            "text": "Las cookies necesarias pueden estar bloqueadas. Reintentar · Abrir directamente"
+          },
+          {
+            "title": "No encontramos la sesión anterior",
+            "text": "Vuelve al contexto original para intentar recuperarla. No crearemos otro contexto automáticamente."
+          },
+          {
+            "title": "No se pudo confirmar el resultado",
+            "text": "Conservamos tu edición en esta vista. Reintenta para recuperar el resultado antes de continuar."
+          }
+        ],
+        "id": "brand-page-48",
+        "layout": "applications"
+      },
+      {
+        "title": "Thank you",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Pulso",
+            "text": "Demo ficticia de Esteban"
+          },
+          {
+            "title": "Colophon",
+            "text": "New identity: original seven-pulse symbol, supplied palette and single-family typography. The guide describes design intent, not delivered functionality."
+          },
+          {
+            "title": "Closing composition",
+            "text": "Use white space, an ink title and the blue symbol on white. End without a sales message, invented link or promise."
+          }
+        ],
+        "id": "brand-page-49",
+        "layout": "cover"
+      }
+    ]
+  }
+}
